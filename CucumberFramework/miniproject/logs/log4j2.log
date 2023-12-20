@@ -1,0 +1,112 @@
+[INFO ] 2023-12-20 11:36:22.459 [main] CommonStepDefiniton - VALUES ARE LOADED
+[INFO ] 2023-12-20 11:36:22.461 [main] CommonStepDefiniton - Properties Loaded
+[INFO ] 2023-12-20 11:36:22.461 [main] CommonStepDefiniton - Checking the browser is Null or not
+[INFO ] 2023-12-20 11:36:23.772 [main] CommonStepDefiniton - Launching the browser
+[INFO ] 2023-12-20 11:36:38.664 [main] Verify_CEO_NameClass - Dropdown selection is done
+[ERROR] 2023-12-20 11:36:40.039 [main] Verify_CEO_NameClass - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="submit" class="oxd-button oxd-button--medium oxd-button--secondary orangehrm-left-space" data-v-10d463b7="" data-v-0d01fa51="">...</button> is not clickable at point (1401, 16). Other element would receive the click: <span class="oxd-userdropdown-tab" data-v-bdd6d943="">...</span>
+  (Session info: chrome=120.0.6099.109)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [723ea3eae67199b55fce16f85c455298, clickElement {id=EEC37CA4A06C15C69042C2C02A3575D5_element_60}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.109, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\navve\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57104}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57104/devtoo..., se:cdpVersion: 120.0.6099.109, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (723ea3eae67199b55fce16f85c455298)] -> xpath: //button[@type='submit']]
+Session ID: 723ea3eae67199b55fce16f85c455298
+[INFO ] 2023-12-20 11:36:40.425 [main] Verify_CEO_NameClass - it's Matched
+[INFO ] 2023-12-20 12:26:01.376 [main] CommonStepDefiniton - VALUES ARE LOADED
+[INFO ] 2023-12-20 12:26:01.378 [main] CommonStepDefiniton - Properties Loaded
+[INFO ] 2023-12-20 12:26:01.378 [main] CommonStepDefiniton - Checking the browser is Null or not
+[INFO ] 2023-12-20 12:26:03.909 [main] CommonStepDefiniton - Launching the browser
+[INFO ] 2023-12-20 12:26:12.971 [main] Verify_CEO_NameClass - Dropdown selection is done
+[ERROR] 2023-12-20 12:26:14.245 [main] Verify_CEO_NameClass - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="submit" class="oxd-button oxd-button--medium oxd-button--secondary orangehrm-left-space" data-v-10d463b7="" data-v-0d01fa51="">...</button> is not clickable at point (1401, 16). Other element would receive the click: <span class="oxd-userdropdown-tab" data-v-bdd6d943="">...</span>
+  (Session info: chrome=120.0.6099.109)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [39e3c7c6174f309119073f08c489d373, clickElement {id=25289C5325DA8205C48ADDDEA1C5640B_element_59}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.109, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\navve\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59453}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59453/devtoo..., se:cdpVersion: 120.0.6099.109, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (39e3c7c6174f309119073f08c489d373)] -> xpath: //button[@type='submit']]
+Session ID: 39e3c7c6174f309119073f08c489d373
+[INFO ] 2023-12-20 12:27:32.473 [main] CommonStepDefiniton - VALUES ARE LOADED
+[INFO ] 2023-12-20 12:27:32.479 [main] CommonStepDefiniton - Properties Loaded
+[INFO ] 2023-12-20 12:27:32.479 [main] CommonStepDefiniton - Checking the browser is Null or not
+[INFO ] 2023-12-20 12:27:33.828 [main] CommonStepDefiniton - Launching the browser
+[INFO ] 2023-12-20 12:27:46.225 [main] Verify_CEO_NameClass - Dropdown selection is done
+[ERROR] 2023-12-20 12:27:47.449 [main] Verify_CEO_NameClass - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="submit" class="oxd-button oxd-button--medium oxd-button--secondary orangehrm-left-space" data-v-10d463b7="" data-v-0d01fa51="">...</button> is not clickable at point (1401, 16). Other element would receive the click: <span class="oxd-userdropdown-tab" data-v-bdd6d943="">...</span>
+  (Session info: chrome=120.0.6099.109)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [afcc0325077094a84cb699bac611ae79, clickElement {id=6FDB4A5588ED1143A24BD6F73418AB9A_element_62}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.109, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\navve\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59520}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59520/devtoo..., se:cdpVersion: 120.0.6099.109, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (afcc0325077094a84cb699bac611ae79)] -> xpath: //button[@type='submit']]
+Session ID: afcc0325077094a84cb699bac611ae79
+[INFO ] 2023-12-20 12:31:36.914 [main] CommonStepDefiniton - VALUES ARE LOADED
+[INFO ] 2023-12-20 12:31:36.916 [main] CommonStepDefiniton - Properties Loaded
+[INFO ] 2023-12-20 12:31:36.916 [main] CommonStepDefiniton - Checking the browser is Null or not
+[INFO ] 2023-12-20 12:31:38.297 [main] CommonStepDefiniton - Launching the browser
+[INFO ] 2023-12-20 12:31:48.243 [main] Verify_CEO_NameClass - Dropdown selection is done
+[ERROR] 2023-12-20 12:31:49.697 [main] Verify_CEO_NameClass - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="submit" class="oxd-button oxd-button--medium oxd-button--secondary orangehrm-left-space" data-v-10d463b7="" data-v-0d01fa51="">...</button> is not clickable at point (1401, 16). Other element would receive the click: <span class="oxd-userdropdown-tab" data-v-bdd6d943="">...</span>
+  (Session info: chrome=120.0.6099.109)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [230f88153229a2a4f8a9e9ab5ba40c9f, clickElement {id=98FCB4CEAA6B8776CE2779D326384915_element_59}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.109, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\navve\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59592}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59592/devtoo..., se:cdpVersion: 120.0.6099.109, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (230f88153229a2a4f8a9e9ab5ba40c9f)] -> xpath: //button[@type='submit']]
+Session ID: 230f88153229a2a4f8a9e9ab5ba40c9f
+[INFO ] 2023-12-20 12:32:20.116 [main] Verify_CEO_NameClass - no such element: Unable to locate element: {"method":"xpath","selector":"(//p[text()='John  Smith '])[1]"}
+  (Session info: chrome=120.0.6099.109)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [230f88153229a2a4f8a9e9ab5ba40c9f, findElement {using=xpath, value=(//p[text()='John  Smith '])[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.109, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\navve\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59592}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59592/devtoo..., se:cdpVersion: 120.0.6099.109, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 230f88153229a2a4f8a9e9ab5ba40c9f
+[INFO ] 2023-12-20 12:32:39.458 [main] CommonStepDefiniton - VALUES ARE LOADED
+[INFO ] 2023-12-20 12:32:39.461 [main] CommonStepDefiniton - Properties Loaded
+[INFO ] 2023-12-20 12:32:39.461 [main] CommonStepDefiniton - Checking the browser is Null or not
+[INFO ] 2023-12-20 12:32:40.609 [main] CommonStepDefiniton - Launching the browser
+[INFO ] 2023-12-20 12:32:50.843 [main] Verify_CEO_NameClass - Dropdown selection is done
+[ERROR] 2023-12-20 12:32:52.056 [main] Verify_CEO_NameClass - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="submit" class="oxd-button oxd-button--medium oxd-button--secondary orangehrm-left-space" data-v-10d463b7="" data-v-0d01fa51="">...</button> is not clickable at point (1401, 16). Other element would receive the click: <span class="oxd-userdropdown-tab" data-v-bdd6d943="">...</span>
+  (Session info: chrome=120.0.6099.109)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9c88827674344e3a042f3f2fea892b96, clickElement {id=B0F65AAF5D79743F97EB4FEA8D60D8CC_element_60}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.109, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\navve\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59619}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59619/devtoo..., se:cdpVersion: 120.0.6099.109, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (9c88827674344e3a042f3f2fea892b96)] -> xpath: //button[@type='submit']]
+Session ID: 9c88827674344e3a042f3f2fea892b96
+[INFO ] 2023-12-20 12:33:22.346 [main] Verify_CEO_NameClass - no such element: Unable to locate element: {"method":"xpath","selector":"(//p[text()='John  Smith '])[1]"}
+  (Session info: chrome=120.0.6099.109)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9c88827674344e3a042f3f2fea892b96, findElement {using=xpath, value=(//p[text()='John  Smith '])[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.109, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\navve\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59619}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59619/devtoo..., se:cdpVersion: 120.0.6099.109, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9c88827674344e3a042f3f2fea892b96
+[INFO ] 2023-12-20 12:34:01.194 [main] CommonStepDefiniton - VALUES ARE LOADED
+[INFO ] 2023-12-20 12:34:01.196 [main] CommonStepDefiniton - Properties Loaded
+[INFO ] 2023-12-20 12:34:01.197 [main] CommonStepDefiniton - Checking the browser is Null or not
+[INFO ] 2023-12-20 12:34:02.503 [main] CommonStepDefiniton - Launching the browser
+[INFO ] 2023-12-20 12:34:11.151 [main] Verify_CEO_NameClass - Dropdown selection is done
+[ERROR] 2023-12-20 12:34:12.453 [main] Verify_CEO_NameClass - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="submit" class="oxd-button oxd-button--medium oxd-button--secondary orangehrm-left-space" data-v-10d463b7="" data-v-0d01fa51="">...</button> is not clickable at point (1401, 16). Other element would receive the click: <span class="oxd-userdropdown-tab" data-v-bdd6d943="">...</span>
+  (Session info: chrome=120.0.6099.109)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [089672a9e74a97cab9e918e4e05ec4db, clickElement {id=3F755EE6B5BD47C42DB0EB16793BD60F_element_61}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.109, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\navve\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59643}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59643/devtoo..., se:cdpVersion: 120.0.6099.109, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (089672a9e74a97cab9e918e4e05ec4db)] -> xpath: //button[@type='submit']]
+Session ID: 089672a9e74a97cab9e918e4e05ec4db
+[INFO ] 2023-12-20 12:34:42.826 [main] Verify_CEO_NameClass - no such element: Unable to locate element: {"method":"xpath","selector":"(//p[text()='John  Smith '])[1]"}
+  (Session info: chrome=120.0.6099.109)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [089672a9e74a97cab9e918e4e05ec4db, findElement {using=xpath, value=(//p[text()='John  Smith '])[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.109, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\navve\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59643}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59643/devtoo..., se:cdpVersion: 120.0.6099.109, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 089672a9e74a97cab9e918e4e05ec4db
